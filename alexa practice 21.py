@@ -1,0 +1,21 @@
+a =8*1
+b=8*2
+c=8*3
+d=8*4
+e=8*5
+f=8*6
+g=8*7
+h=8*8
+i=8*9
+j=8*10
+
+print("8 x 1 = "+str (a))
+print("8 x 2 = "+str (b))
+print("8 x 3 = "+str (c))
+print("8 x 4 = "+str (d))
+print("8 x 5 = "+str (e))
+print("8 x 6 = "+str (f))
+print("8 x 7 = "+str (g))
+print("8 x 8 = "+str (h))
+print("8 x 9 = "+str (i))
+print("8 x 10 = "+str (j))

@@ -1,0 +1,7 @@
+num=int(input("enter a nummber: "))
+num1=int(input("enter a nummber: "))
+num2=int(input("enter a nummber: "))
+num3=int(input("enter a nummber: "))
+num4=int(input("enter a nummber: "))
+num5 = (num1+num+num2+num3+num4)
+print("the average is: "+ str(num5/5))
